@@ -39,13 +39,30 @@ h1{
   bottom: 11px;  
 }
 
+.child > img[alt ="02"] {
+
+    /* width:390px; */
+    /* height:390px; */
+
+    position: relative;
+  /* top: 1px; */
+  right: 62px;
+  bottom: 11px;  
+}
+
+.child > img[alt ="03"] {
+
+    width:910px;
+    height:515px;
+
+    position: relative;
+  /* top: 1px; */
+  right: 511px;
+  bottom: 18px;  
+}
+
     
 
 
 
-.second {
-position: relative;
-  top: 4px;
-  right: 25px;
 
-}
