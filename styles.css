@@ -61,6 +61,17 @@ h1{
   bottom: 18px;  
 }
 
+.child > img[alt ="04"] {
+
+    width:910px;
+    height:515px;
+
+    position: relative;
+  /* top: 1px; */
+  right: 511px;
+  bottom: 18px;  
+}
+
     
 
 
